@@ -2,8 +2,8 @@
 
 <p align="center">
   🎓 Computer Science Student at IT University <br>
-  💻 Passionate about Software Development & Data Science <br>
-  🩺 Interested in Data Science for Healthcare
+  💻 Passionate about Software Development, Data & Creativity <br>
+  🩺 Interested in technology for healthcare and social impact
 </p>
 
 ---
