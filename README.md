@@ -19,7 +19,7 @@
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=vue,html,css,js" />
 </p>
 
 ### 🗄️ Databases
